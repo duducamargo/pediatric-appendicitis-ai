@@ -1,6 +1,6 @@
 import pickle
 import sys
-from config import *
+from app.config import *
 
 def carregar_modelos():
     try:
