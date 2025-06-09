@@ -2,6 +2,7 @@
 __pycache__/
 **/__pycache__/
 *.py[cod]
+*/__pycache__
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
