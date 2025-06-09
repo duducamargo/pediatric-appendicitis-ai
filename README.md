@@ -47,19 +47,31 @@ Três modelos especializados:
 ```
 /projeto-apendicite/
 │
+├── /core/
+│   ├── data_preparation.py
+│   ├── inference.py
+│   └── model_loader.py
+│
 ├── /models/
 │   ├── modeloDiagnosis.pkl
 │   ├── modeloSeverity.pkl
 │   ├── modeloManagement.pkl
 │   └── modelo_normalizador_num.pkl
 │
-├── dados/
-│   └──  df_normalizado.csv
-│   
+├── data/
+│   └──  df_normalizado.csv 
 │
 ├── notebooks/
 │   ├──Apendicite_Modelagem.ipynb
 │   └── Apendicite_Inferencia.ipynb
+│
+├── /utils/
+│   ├── input_handler.py
+│   └── translations.py
+│
+├── config.py
+│
+├── main.py
 │
 └── README.md
 ```
