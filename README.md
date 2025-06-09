@@ -69,7 +69,7 @@ Três modelos especializados:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-apendicite.git
+git clone https://github.com/duducamargo/projeto-apendicite.git
 ```
 
 Execute o notebook principal:
