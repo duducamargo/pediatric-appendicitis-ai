@@ -1,6 +1,6 @@
 from pathlib import Path
 
-MODELS_DIR = Path(__file__).parent / 'models'
+MODELS_DIR = Path(__file__).resolve().parent.parent / 'models'
 
 DIAGNOSIS_MODEL_PATH = MODELS_DIR / 'modeloDiagnosis.pkl'
 SEVERITY_MODEL_PATH = MODELS_DIR / 'modeloSeverity.pkl'
