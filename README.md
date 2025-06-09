@@ -47,6 +47,10 @@ Três modelos especializados:
 ```
 /projeto-apendicite/
 │
+├── /app/
+│   ├── main.py
+│   └── config.py
+│
 ├── /core/
 │   ├── data_preparation.py
 │   ├── inference.py
@@ -69,9 +73,6 @@ Três modelos especializados:
 │   ├── input_handler.py
 │   └── translations.py
 │
-├── config.py
-│
-├── main.py
 │
 └── README.md
 ```
