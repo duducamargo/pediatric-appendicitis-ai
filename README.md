@@ -127,5 +127,5 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 
 Para dúvidas ou sugestões:
 
-- **Email:** edu.farias.camargo.com  
+- **Email:** edu.farias.camargo@gmail.com  
 - **LinkedIn:** [Eduardo Farias Camargo](https://www.linkedin.com/in/eduardo-farias-camargo-7347612b0/)  
